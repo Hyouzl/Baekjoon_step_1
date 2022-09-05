@@ -61,6 +61,8 @@ public class Baekjoon3003 {
 			System.out.println(8 - pwun);
 		}
 		else System.out.println(0);
+		
+		scan.close();
 	}
 
 }

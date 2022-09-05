@@ -12,6 +12,7 @@ public class Baekjoon10926 {
 		
 		System.out.println(s + "??!");
 		
+		scan.close();
 	}
 
 }

@@ -13,6 +13,8 @@ public class Baekjoon18108 {
 		int n = scan.nextInt();
 		
 		System.out.println(n-k);
+		
+		scan.close();
 	}
 
 }
