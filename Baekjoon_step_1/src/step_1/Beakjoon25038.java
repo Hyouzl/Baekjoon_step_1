@@ -6,7 +6,7 @@ public class Beakjoon25038 {
 		System.out.println("r`-_   ,'  ,/");
 		System.out.println(" \\. \". L_r'"); 
 		System.out.println("   `~\\/");
-		System.out.println("     |");
-		System.out.println("     |");
+		System.out.println("      |");
+		System.out.println("      |");
 	}
 }
